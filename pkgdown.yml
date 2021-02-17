@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  parzer: parzer.html
+  use_cases: use_cases.html
+last_built: 2021-07-14T02:54Z
+urls:
+  reference: https://docs.ropensci.org/parzer/reference
+  article: https://docs.ropensci.org/parzer/articles
+

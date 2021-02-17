@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3bcf653568801103cc1da5e52e65334b1d8570aa",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-02-17 00:50:07",
+    "files": 1,
+    "merge": false,
+    "message": "use tinytex specici binary version\n"
+  },
+  "remote": "https://github.com/ropensci/parzer",
+  "pkg": "parzer"
+}
