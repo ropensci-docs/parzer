@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "409b55f609587997794a04a79d9a8ba3be41b92f",
+    "author": "AlbanSagouis <25483578+AlbanSagouis@users.noreply.github.com>",
+    "time": "2026-07-01T07:47:44Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #58 from ropensci/dependabot/github_actions/actions/checkout-7\n\nBump actions/checkout from 6 to 7"
+  },
+  "repo": "https://github.com/ropensci/parzer",
+  "pkg": "parzer",
+  "time": "2026-08-30T08:14:20Z"
+}
