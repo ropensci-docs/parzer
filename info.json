@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "91c1bbd7929994fe379707baa5419b769fc0fa59",
+    "author": "AlbanSagouis <25483578+AlbanSagouis@users.noreply.github.com>",
+    "time": "2026-11-06T08:39:30Z",
+    "files": 40,
+    "merge": true,
+    "message": "Merge pull request #61 from ropensci/dev\n\nparzer 0.5.0: bug fixes and faster parsing without std::regex"
+  },
+  "repo": "https://github.com/ropensci/parzer",
+  "pkg": "parzer",
+  "time": "2026-11-06T15:22:53Z"
+}
