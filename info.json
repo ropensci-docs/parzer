@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "875d8a84baea0d9efd617c8e6f8ba88631690aab",
+    "author": "AlbanSagouis <25483578+AlbanSagouis@users.noreply.github.com>",
+    "time": "2026-11-24T16:36:47Z",
+    "files": 52,
+    "merge": true,
+    "message": "Merge pull request #62 from ropensci/dev\n\nv0.6.0 submitted to CRAN"
+  },
+  "repo": "https://github.com/ropensci/parzer",
+  "pkg": "parzer",
+  "time": "2026-11-24T18:09:13Z"
+}
